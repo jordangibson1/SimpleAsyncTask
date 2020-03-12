@@ -1,0 +1,4 @@
+#Tue Mar 10 10:07:09 EDT 2020
+base.0=/home/gibsonj22/AndroidStudioProjects/SimpleAsyncTask/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
